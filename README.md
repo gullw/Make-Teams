@@ -1,6 +1,6 @@
 # Projeto de Formação de Times Aleatórios
 
-![Imagem do Projeto](neymar_2_1024x768-27560987.jpg)
+![Imagem do Projeto](assets/neymar_2_1024x768-27560987.jpg)
 
 ## Descrição
 
