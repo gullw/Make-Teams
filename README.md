@@ -8,7 +8,7 @@ O Projeto de Formação de Times Aleatórios é uma aplicação simples que cria
 
 ## Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.12
 
 ## Demonstração
 
@@ -18,7 +18,7 @@ O Projeto de Formação de Times Aleatórios é uma aplicação simples que cria
 
 ### Pré-requisitos
 
-- Python 3.x
+- Python 3.12
 
 ### Instalação
 
@@ -45,12 +45,12 @@ Você pode contribuir para este projeto de diversas formas:
 
 ## Licença
 
-Este projeto está sob a licença [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença [MIT LICENCE]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- Seu Nome
-- Email: seu.email@example.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- Gustavo silva
+- Email: wllgu7@gmail.com
+- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/gustavo-silva777)
